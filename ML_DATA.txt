@@ -1,0 +1,11 @@
+Set of instructions is also 
+known as a Algorithm is mainly
+used to predict and classification of data in machinlearning as per the customer requirements
+
+mainly to work with machinelearning algorithms we can use basically few python modules like:
+
+a)pandas
+b)numpy
+c)matplotlib
+d)sklearn(scikit learn)
+e)scipy
